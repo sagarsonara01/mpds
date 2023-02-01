@@ -1,0 +1,124 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+    position: sticky;
+    background-color: black;
+    /* background-color: beige; */
+    /* background-image: url(http://cdn.home-designing.com/wp-content/uploads/2016/01/artistic-black-living-room-ideas.jpg); */
+    
+ }
+ body{
+   background-color: black;
+ }
+ ul{
+    justify-content: space-between;
+    display: flex;
+    font-size: 25px;
+    
+ }
+ .mpm{
+    /* font-family: cursive;
+    font-size: 65px;
+    background-color: rgb(112, 122, 92);
+    border-radius: 25%; */
+
+ }
+ a{
+    text-decoration: none;
+ }
+ .nav ul li{
+    list-style: none;
+    
+ }
+ .nn li a{
+    color: aliceblue;
+    font-weight: bolder ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .nn li{
+    display: inline-block;
+    padding: 10px 20px;
+ 
+    
+ }
+
+ /* .nn li a:hover{
+    border-radius: 25%;
+    background-color: rgb(95, 46, 46);
+ } */
+ .dd{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5ac2ddf285ede15e39a57666/1630040244898-R72EQE2C33N37RWRGSCD/Design-Anthology-2021-08+Apartment%2C+Taipei-DegreeDesign_Nangang_DoubleMei-238.jpg?format=1000w);
+    height: 83vh;
+    background-size: cover;
+    background-position: center;
+ }
+ h3{
+    /* text-align: center; */
+    font-size: 70px;
+    font-family: cursive;
+    padding-left: 300px;
+    padding-top: 100px;
+    color: whitesmoke;
+ }
+ .pp{
+    display: flex;
+    justify-content: space-between;
+   
+ }
+ .pp p{
+   color: whitesmoke;
+ }
+ p{
+    margin-left: 200px;
+    font-size: xx-large;
+ }
+ h5{
+    font-size: 42px;
+    margin-top: 20px;
+    color: whitesmoke;
+ }
+ h6{
+    font-size: 39px;
+    margin-left: 290px;
+    color: whitesmoke;
+ }
+.lll li{
+    margin-left: 300px;
+    font-size: x-large;
+    margin-top: 10px;
+    color: whitesmoke;
+}
+.footer{
+   margin-top: 00px;
+   display: flex;
+   justify-content: space-around;
+   border: 2px solid;
+   width: 100%;
+   height: 90vh;
+   background-image:url(https://i.ytimg.com/vi/B8Gjmvj3NDo/maxresdefault.jpg);
+   background-size: cover;
+   background-position: center;
+}
+.div3{
+   /* padding-top: 50px; */
+   text-align: center;
+   font-size: xx-large;
+   /* margin-top: 0px; */
+   font-size: 25px;
+   color: white;
+}
+.pm{
+   font-family: cursive;
+   font-size: 65px;
+   text-align: center;
+}
+.pmp{
+   text-align: center;
+}
+.div3{
+   text-align: center;
+}
+h2{
+   font-size: medium;
+}

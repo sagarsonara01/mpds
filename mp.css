@@ -1,0 +1,212 @@
+body{
+   /* background-color: rgb(249, 249, 250);
+   background-image: url(http://cdn.home-designing.com/wp-content/uploads/2016/01/artistic-black-living-room-ideas.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%; */
+   background-color: black;
+}
+.nav{
+   display: flex;
+   justify-content: space-between;
+   font-size: x-large;
+   background-color: black;
+   position: sticky;
+   /* background-color: beige; */
+   
+   
+}
+.gg{
+   background-image: url(https://mykaleidoscope.ru/en/uploads/posts/2022-09/1663382623_3-mykaleidoscope-ru-p-black-interior-interer-krasivo-3.jpg);
+   height: 84vh;
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+}
+ul{
+   justify-content: space-between;
+   display: flex;
+   font-size: 25px;
+   
+}
+.mpm{
+   /* font-family: cursive;
+   font-size: 65px;
+   background-color: rgb(112, 122, 92);
+   border-radius: 25%; */
+}
+a{
+   text-decoration: none;
+}
+.nav ul li{
+   list-style: none;
+   
+}
+.nn li a{
+   color: aliceblue;
+   font-weight: bolder ;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nn li{
+   display: inline-block;
+   padding: 10px 20px;
+
+   
+/* }
+.nn li a:hover{
+   border-radius: 25%;
+   
+   /* background-color: rgb(95, 46, 46); */
+} */
+/* li{
+   width: max-content;
+   font-size: 72px;
+   position: relative;cursor: pointer;
+   margin: 100px auto;
+} */
+/* li::after{
+   content: ;
+   position: absolute;
+   bottom: -5px;
+   height: 4px;
+   width: 100%;
+   left: 0;
+   background-color: rgb(12, 12, 12);
+   transition: 0.3s;
+   transition-timing-function: ease-in-out;
+   transform: scaleX(0);
+
+} */
+h1:hover::after{
+   transform: scaleX(1);
+}
+button{
+   font-size: x-large;
+   border-radius: 15px;
+   font-weight: bolder;
+}
+button:hover{
+   background-color: rgba(43, 42, 42, 0.248);
+}
+h1{
+   text-align: center;
+   padding-top: 170px;
+   font-size: 50px;
+   color: whitesmoke;
+   font-family: cursive;
+}
+p{
+   text-align: center;
+   font-size: x-large;
+   color: whitesmoke;
+}
+h2{
+   color: aliceblue;
+}
+.cc{
+   width: 85vmin;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   top: 180%;
+   left: 50%;
+   overflow: hidden;
+   border: 20px solid snow;
+   border-radius: 8px;
+   /* box-shadow: 10px 10px 25px 30px rgba(255, 255, 255, 0.311); */
+}
+/* @media screen and (max-width: 500px){
+   body{
+      padding: 10px 20px;
+      ;
+   }
+} */
+.aa{
+   width: 100%;
+   display: flex;
+   animation: slide 16s infinite;
+
+
+}
+@keyframes slide{
+   0%{
+      transform: translateX(0);
+   }
+   25%{
+      transform: translateX(0);
+   }
+   30%{
+      transform: translateX(-100%);
+   }
+   50%{
+      transform: translateX(-100%);
+   }
+   55%{
+      transform: translateX(-200%);
+   }
+   75%{
+      transform: translateX(-200%);
+   }
+   80%{
+      transform: translateX(-300%);
+   }
+   100%{
+      transform: translateX(-300%);
+   }
+}
+.aa img{
+   width: 100%;
+}
+.new01{
+   position: absolute;
+   text-align:center; 
+   top: 120%;
+   left: 42%; 
+}
+.new01 h2{
+   font-size: xx-large;
+   font-weight: 100;
+   border-bottom: 2px solid;
+   border-color: gold;
+   justify-content: center;
+   
+}
+.new03{
+   text-align: center;
+   position: absolute;
+   top: 138%;
+   left: 25%;
+   font-weight: 450;
+   font-size: large;
+}
+.new03 p{
+   color: whitesmoke;
+}
+.footer{
+   margin-top: 780px;
+   display: flex;
+   justify-content: space-around;
+   border: 2px solid;
+   width: 100%;
+   height: 90vh;
+   background-image:url(https://i.ytimg.com/vi/B8Gjmvj3NDo/maxresdefault.jpg);
+   background-size: cover;
+   background-position: center;
+}
+.div3{
+   /* padding-top: 50px; */
+   text-align: center;
+   font-size: xx-large;
+   /* margin-top: 0px; */
+   font-size: 25px;
+   color: white;
+}
+.pm{
+   font-family: cursive;
+   font-size: 65px;
+   text-align: center;
+}
+.pmp{
+   text-align: center;
+}
+.div3{
+   text-align: center;
+}
